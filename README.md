@@ -5,7 +5,7 @@ Desenvolvimento de API Rest para Mangás, com uso de Java Spring Boot.
 - Importe o projeto como 'Existing Maven Project';
 - Abra o projeto MangasBrasil;
 - Abra classe com.mangas.DataConfiguration.java
-  Edite a senha do banco mysql para a que você utiliza
+  Edite a senha do banco mysql para a que você utiliza em dataSource.setPassword("");
 - Clique com botao direito com a class com.mangas.MangasBrasilApplication.java e execute Run As > Java Application
 - Abra o PostMan e insira o http://localhost:8080/manga
 
