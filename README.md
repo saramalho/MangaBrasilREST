@@ -1,5 +1,7 @@
 # MangaBrasilREST
 Desenvolvimento de API Rest para Mangás, com uso de Java Spring Boot.
+Equipe:
+ Sarita Dantas Ramalho de Amorim
 
 - Crie um banco mysql com scheme chamado 'manga';
 - Importe o projeto como 'Existing Maven Project';
