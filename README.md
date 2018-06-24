@@ -5,6 +5,7 @@ Equipe:
 
 Sarita Dantas Ramalho de Amorim
 
+Instruções:
 - Crie um banco mysql com scheme chamado 'manga';
 - Importe o projeto como 'Existing Maven Project';
 - Abra o projeto MangasBrasil;
