@@ -4,7 +4,9 @@ Desenvolvimento de API Rest para Mangás, com uso de Java Spring Boot.
 Equipe: 
 
 Sarita Dantas Ramalho de Amorim
+
 Waleska Sousa Melo
+
 Rodrigo Rodrigues
 
 Instruções:
