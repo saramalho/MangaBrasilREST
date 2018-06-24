@@ -9,7 +9,8 @@ Desenvolvimento de API Rest para Mangás, com uso de Java Spring Boot.
 - Clique com botao direito com a class com.mangas.MangasBrasilApplication.java e execute Run As > Java Application
 - Abra o PostMan e insira o http://localhost:8080/manga
 
-Exemplos de inserções Post JSON
+Exemplos de inserções PostMan como  raw, JSON (application/json)  
+
 {
 	"titulo":"Arakawa Under the Bridge",
 	"autor":{
